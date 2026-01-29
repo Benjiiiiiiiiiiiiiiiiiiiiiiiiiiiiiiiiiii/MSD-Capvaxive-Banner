@@ -1,0 +1,447 @@
+/* 🎯 DEIN CSS - nur body + wrapper angepasst für oben links */
+.barlow-condensed-thin {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.barlow-condensed-extralight {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.barlow-condensed-light {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.barlow-condensed-regular {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.barlow-condensed-medium {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.barlow-condensed-semibold {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.barlow-condensed-bold {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.barlow-condensed-extrabold {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.barlow-condensed-black {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.barlow-condensed-thin-italic {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.barlow-condensed-extralight-italic {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.barlow-condensed-light-italic {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.barlow-condensed-regular-italic {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.barlow-condensed-medium-italic {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.barlow-condensed-semibold-italic {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.barlow-condensed-bold-italic {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.barlow-condensed-extrabold-italic {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 800;
+  font-style: italic;
+}
+
+.barlow-condensed-black-italic {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+}
+
+.poppins-thin {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.poppins-extralight {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.poppins-light {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.poppins-medium {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.poppins-semibold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.poppins-bold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.poppins-extrabold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.poppins-black {
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.poppins-thin-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.poppins-extralight-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.poppins-light-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.poppins-regular-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.poppins-medium-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.poppins-semibold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.poppins-bold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.poppins-extrabold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: italic;
+}
+
+.poppins-black-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+}
+
+
+:root {
+  --before-after-aspect-ratio: 491 / 675;
+  --before-image: url(/Bilder/Bild_b.gif);
+  --after-image: url(/Bilder/Bild_a.gif);
+  /* --before-after-background-color: #5f527e; */
+}
+
+.right-column {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-left: -20px;
+  margin-right: 20px;
+}
+
+/* Animation weiter auf alle Bilder anwenden */
+.right-column img {
+  max-width: 100%;
+  height: auto;
+  opacity: 0;
+  transform: translateY(50px);
+  animation: slideInUp 0.8s ease-out forwards;
+  padding-top: 55px;
+  padding-right: 50px;
+}
+
+/* ⚠ Globale img-Paddings lieber entfernen oder gezielt machen
+   sonst addierst du doppelt Padding */
+img {
+  padding-top: 0;
+  padding-right: 0;
+}
+
+/* Nur Button + Logo nebeneinander */
+.bottom-row {
+  display: flex;
+  gap: 10px;        /* Abstand zwischen Button & Logo */
+  padding-bottom: 20px;
+  margin-top: 0px;
+}
+
+.bottom-row img {
+  width: 110%;       /* je 50 % der Breite */
+}
+
+/* Animation-Delay mit Wrapper: 
+   1: Header, 2: Text, 3: bottom-row (statt einzelner Button) */
+.right-column img:nth-child(1) { /* Header.svg */
+  animation-delay: 0.1s;
+}
+
+.right-column img:nth-child(2) { /* Text.svg */
+  animation-delay: 0.3s;
+}
+
+
+/* Verschiedene Verzögerungen für jedes Bild */
+.right-column img:nth-child(1) { /* Header.svg */
+  animation-delay: 0.1s;
+}
+
+.right-column img:nth-child(2) { /* Text.svg */
+  animation-delay: 0.3s;
+}
+
+.right-column img:nth-child(3) { /* Buttom.svg */
+  animation-delay: 0.5s;
+}
+
+@keyframes slideInUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+/* 🎯 1. SKALIERUNGS-WRAPPER (OBEN LINKS) */
+.content-wrapper {
+  width: 1200px;
+  height: 675px;
+  max-width: 100vw;
+  max-height: 100vh;
+  margin: 0;                    /* ← KEIN AUTO */
+  transform: scale(calc(min(100vw / 1200, 100vh / 675, 1)));
+  transform-origin: top left;   /* ← OBEN LINKS! */
+  background: var(--before-after-background-color);
+  position: absolute;           /* ← ABSOLUT positioniert */
+  top: 90px;                    /* ← Oben Abstand */
+  left: 0;                      /* ← Links angelehnt */
+}
+
+/* 🎯 2. BODY - FULLSCREEN ohne Zentrierung */
+body {
+  width: 1200px !important;
+  height: 675px !important;
+  vertical-align: baseline; 
+  margin: 0 !important;
+  padding: 0 !important;                   /* ← Padding komplett weg */
+  background: var(--before-after-background-color);
+  font-family: "Barlow Condensed", sans-serif;
+  min-height: 100vh;
+  position: relative;           /* ← Für absoluten Wrapper */
+  overflow-x: hidden;           /* ← Horizontales Scroll verhindern */
+}
+
+/* REST DEINES CSS UNVERÄNDERT */
+.before-after-container {
+  aspect-ratio: var(--before-after-aspect-ratio);
+  background: var(--before-after-background-color);
+  width: 81.6%;
+  overflow: hidden;
+  transition: all 0.3s ease-in-out;
+}
+
+.before-after-container figure {
+  background-image: var(--after-image);
+  position: relative;
+  margin: 0;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+
+#before_after {
+  background-image: var(--before-image);
+  background-size: cover;
+  bottom: 0;
+  border-right: 5px solid rgba(255, 255, 255, 0.7);
+  box-shadow: 10px 0 15px -13px #000;
+  height: 100%;
+  max-width: 98.6%;
+  min-width: 0.6%;
+  overflow: visible;
+  position: absolute;
+  width: 50%;
+  animation: first 2s 1 normal ease-in-out 0.1s;
+}
+
+/* Input styles unverändert... */
+input#before_after_slider {
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  border: none;
+  background: transparent;
+  cursor: col-resize;
+  height: 100vw;
+  left: 0;
+  margin: 0;
+  outline: none;
+  padding: 0;
+  position: relative;
+  top: -100vw;
+  width: 100%;
+}
+
+#before_after::before {
+  background: url(https://assets.codepen.io/191814/comparision.png) no-repeat scroll 0 center transparent;
+  background-size: contain;
+  content: " ";
+  float: right;
+  height: 100%;
+  margin-right: -34px;
+  position: relative;
+  top: 0;
+  width: 64px;
+}
+
+@keyframes first {
+  0% { width: 0%; }
+  50% { width: 80%; }
+  100% { width: 50%; }
+}
+@-webkit-keyframes first {
+  0% { width: 0%; }
+  50% { width: 80%; }
+  100% { width: 50%; }
+}
+
+/* Demo-Styles unverändert */
+a { color: white; }
+a:hover { color: red; }
+article { 
+  display: grid;
+  align-content: center;
+  padding: 25px;
+  height: 100%;
+}
+h2 {
+  color: #eae3da;
+  text-transform: uppercase;
+  font-size: 3.5rem;
+  font-weight: 500;
+  letter-spacing: 5px;
+  line-height: 1;
+  margin: 0;
+}
+p {
+  color: #eae3da;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.5rem;
+  font-size: clamp(0.8rem, 1vw, 1.2rem);
+  margin: 0.5em 0;
+}
+
+.parent-container {
+  width: 100%;
+  height: 100%;
+  padding-top: 0;
+}
+
+.two-column-grid {
+  background-color: #5f527e;
+  display: grid;
+  grid-gap: 0px;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr 1fr;
+  height: 100%;
+  width: 100%;
+}
+
+
+@media only screen and (max-width: 980px) {
+  .two-column-grid {
+    grid-template-columns: 1fr;
+  }
+}
