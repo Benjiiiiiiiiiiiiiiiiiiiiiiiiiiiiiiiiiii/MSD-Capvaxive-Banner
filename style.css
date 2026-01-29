@@ -215,6 +215,13 @@
   font-style: italic;
 }
 
+.fullscreen-link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+
 
 :root {
   --before-after-aspect-ratio: 491 / 675;
