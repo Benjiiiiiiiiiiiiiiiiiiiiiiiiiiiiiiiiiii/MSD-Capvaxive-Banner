@@ -218,8 +218,8 @@
 
 :root {
   --before-after-aspect-ratio: 491 / 675;
-  --before-image: url(/Bilder/Bild_b.gif);
-  --after-image: url(/Bilder/Bild_a.gif);
+  --before-image: url(Bilder/Bild_b.gif);
+  --after-image: url(Bilder/Bild_a.gif);
   /* --before-after-background-color: #5f527e; */
 }
 
